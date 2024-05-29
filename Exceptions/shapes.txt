@@ -1,0 +1,140 @@
+Shape: class Homework.Triangle
+  position: Position{x=-80.0, y=33.0}
+  area: 3493.9139605758573
+  perimeter: 269.4803109021122
+  fill color: Brown
+  outline: Orange
+
+Shape: class Homework.Circle
+  position: Position{x=-59.0, y=-4.0}
+  area: 20050.765071837577
+  perimeter: 501.96149752163166
+  fill color: Black
+  outline: Black
+
+Shape: class Homework.Triangle
+  position: Position{x=95.0, y=0.0}
+  area: 665.8361446989948
+  perimeter: 117.63989283237765
+  fill color: Red
+  outline: Red
+
+Shape: class Homework.Triangle
+  position: Position{x=-96.0, y=13.0}
+  area: 24.799597165429358
+  perimeter: 22.70352280094825
+  fill color: Green
+  outline: Purple
+
+Shape: class Homework.Circle
+  position: Position{x=-24.0, y=70.0}
+  area: 11099.31284609687
+  perimeter: 373.46764088575463
+  fill color: Green
+  outline: Brown
+
+Shape: class Homework.Triangle
+  position: Position{x=-92.0, y=-96.0}
+  area: 783.785514787975
+  perimeter: 127.63493254666452
+  fill color: Orange
+  outline: Brown
+
+Shape: class Homework.Circle
+  position: Position{x=-65.0, y=68.0}
+  area: 14418.953174207094
+  perimeter: 425.66877905030447
+  fill color: Black
+  outline: Brown
+
+Shape: class Homework.Triangle
+  position: Position{x=42.0, y=83.0}
+  area: 4293.756647824501
+  perimeter: 298.73743661018443
+  fill color: Green
+  outline: Transparent
+
+Shape: class Homework.Triangle
+  position: Position{x=30.0, y=-80.0}
+  area: 3477.217802462922
+  perimeter: 268.8356651082318
+  fill color: Yellow
+  outline: Pink
+
+Shape: class Homework.Rectangle
+  position: Position{x=81.0, y=-69.0}
+  area: 3820.692865661715
+  perimeter: 266.62873498690504
+  fill color: Pink
+  outline: Black
+
+Shape: class Homework.Triangle
+  position: Position{x=-10.0, y=-69.0}
+  area: 1.6379207748742037
+  perimeter: 5.834684568188453
+  fill color: Pink
+  outline: Green
+
+Shape: class Homework.Circle
+  position: Position{x=-99.0, y=-97.0}
+  area: 7177.306080032574
+  perimeter: 300.3209753153828
+  fill color: Black
+  outline: Green
+
+Shape: class Homework.Circle
+  position: Position{x=92.0, y=74.0}
+  area: 12361.650404104284
+  perimeter: 394.13332818110837
+  fill color: Transparent
+  outline: Green
+
+Shape: class Homework.Triangle
+  position: Position{x=-87.0, y=-13.0}
+  area: 155.91466724191602
+  perimeter: 56.92649210779038
+  fill color: Black
+  outline: Orange
+
+Shape: class Homework.Rectangle
+  position: Position{x=-90.0, y=-92.0}
+  area: 4145.189163457892
+  perimeter: 262.6682285723509
+  fill color: Blue
+  outline: Yellow
+
+Shape: class Homework.Circle
+  position: Position{x=75.0, y=54.0}
+  area: 5227.474990646531
+  perimeter: 256.3013618960267
+  fill color: Black
+  outline: Red
+
+Shape: class Homework.Triangle
+  position: Position{x=-90.0, y=29.0}
+  area: 457.1286632951831
+  perimeter: 97.47430864119858
+  fill color: Brown
+  outline: Brown
+
+Shape: class Homework.Triangle
+  position: Position{x=-8.0, y=-26.0}
+  area: 669.1377672530875
+  perimeter: 117.93119740656647
+  fill color: Black
+  outline: Transparent
+
+Shape: class Homework.Circle
+  position: Position{x=-89.0, y=47.0}
+  area: 4916.528564622311
+  perimeter: 248.56170276035544
+  fill color: Purple
+  outline: Yellow
+
+Shape: class Homework.Rectangle
+  position: Position{x=53.0, y=-52.0}
+  area: 4480.695192902978
+  perimeter: 270.02959530820647
+  fill color: Red
+  outline: Transparent
+
